@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm DayMoniakk</h1>
 <h3 align="center">A Hobbyist developer from France</h3>
 
-- 🔭 My first game was [Go Chicken](daymoniakk.github.io/gochicken)
+- 🔭 My first game was [Go Chicken](https://daymoniakk.github.io/gochicken.html)
 
 - 🌱 I’m currently learning **web development**
 
-- 👨‍💻 All of my projects are available at [daymoniakk.github.io](daymoniakk.github.io)
+- 👨‍💻 You can find some of my projects on [my website](https://daymoniakk.github.io/index.html)
 
 - ⚡ Fun fact **I've never learned programming at school**
 
